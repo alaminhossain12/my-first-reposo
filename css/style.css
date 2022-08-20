@@ -6,3 +6,43 @@
   text-align: center;
   border-radius: 10px;
 }
+
+.blog {
+  background-color: goldenrod;
+  border: 50px solid green;
+  border-radius: 15px;
+  padding: 20px;
+  width: 70%;
+  height: 400px;
+  margin: 40px auto;
+}
+
+.title {
+  color: white;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 400;
+}
+
+.title-name {
+  color: green;
+}
+
+.name {
+  color: purple;
+}
+
+.paragraph {
+  color: white;
+  font-size: 25px;
+  text-align: justify;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 300;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  cursor: pointer;
+}
